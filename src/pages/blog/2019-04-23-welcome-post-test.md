@@ -19,7 +19,7 @@ Hello, again.
 * Two
 * Three
 
-![](/img/products-grid3.jpg)
+![](/img/sky.jpg)
 
 This is _another_ paragraph.
 
